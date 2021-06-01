@@ -1,0 +1,1378 @@
+{
+    "resourceType": "Parameters",
+    "parameter": [
+        {
+            "name": "inputFormat",
+            "valueString": "application/fhir+ndjson"
+        },
+        {
+            "name": "mode",
+            "valueString": "InitialLoad"
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ak"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_an"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bn"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_an"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_am"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CareTeam"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CareTeam.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_an"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_aj"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_av"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_am"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_aj"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_al"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_as"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ba"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_at"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_au"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_al"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_af"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ar"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_az"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_as"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CarePlan"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CarePlan.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_al"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ao"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_at"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ay"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_af"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bk"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bd"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_as"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_aw"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ap"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_af"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_am"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bc"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CarePlan"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CarePlan.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bm"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ax"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ap"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CarePlan"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CarePlan.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ah"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ad"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ak"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ah"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bj"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bf"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CarePlan"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CarePlan.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ar"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bg"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bb"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ap"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ag"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CareTeam"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CareTeam.ndjson_ab"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_av"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ai"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ak"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_at"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CareTeam"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CareTeam.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_af"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ag"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CareTeam"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CareTeam.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_be"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ag"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ai"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_aj"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_af"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ae"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bi"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_aq"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_ao"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ar"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_ai"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CarePlan"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CarePlan.ndjson_ac"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Condition"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Condition.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Procedure"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Procedure.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bh"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Immunization"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Immunization.ndjson_ag"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "CareTeam"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/CareTeam.ndjson_aa"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ah"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_aq"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_bl"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_aq"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "DiagnosticReport"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/DiagnosticReport.ndjson_ao"
+                }
+            ]
+        },
+        {
+            "name": "input",
+            "part": [
+                {
+                    "name": "type",
+                    "valueString": "Encounter"
+                },
+                {
+                    "name": "url",
+                    "valueUri": "https://importperfwenvriz6blrrw.blob.core.windows.net/test2/Encounter.ndjson_au"
+                }
+            ]
+        }
+    ]
+}

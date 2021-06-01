@@ -1,0 +1,6 @@
+{
+	"sqlServer": "importperf.database.windows.net",
+	"fhirServer": "https://importperf.azurewebsites.net",
+	"dbName": "FHIR",
+	"requestBodyFile": ".\\perfenv1\\request.json"
+}
