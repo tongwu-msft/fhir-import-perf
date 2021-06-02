@@ -1,0 +1,50 @@
+
+
+From: Tong Wu (SH) <tongwu@microsoft.com>
+Sent: Tuesday, June 1, 2021 5:07 AM
+To: Katherine Lightsey (Chameleon Technologies Inc) <v-klightsey@microsoft.com>
+Cc: Peiyuan Zhou <Peiyuan.Zhou@microsoft.com>; Xin Liu <xinliu@microsoft.com>
+Subject: Performance tunning for import operation
+ 
+Hello @Katherine Lightsey (Chameleon Technologies Inc),
+
+     We setup a new environment for performance tests and I added you as owner of this resource group (you might want to add your IP range to the SQL allow list), currently we have 2 test environments:
+
+perfenv1: importperftest - Microsoft Azure
+perfenv2: fhirimporttest - Microsoft Azure
+ 
+
+     And we created E2E performance test scripts here: tongwu-msft/fhir-import-perf (github.com), here’re commands for 2 performance tests against different environment. The sql admin user is fhirAdmin and I would send password separately.
+
+ 
+
+  .\FhirImportTest.ps1 -settingsFile .\perfenv1\settings.json
+ .\FhirImportTest.ps1 -settingsFile .\perfenv2\settings.json
+
+ 
+
+     Please make sure increase SQL cores and App Service instance count before running the tests. And scale down the service to save cost after testing.
+
+Go to App Service Plan(env1: importperf-asp, env2: ) => Scale out => set instance count to 30 => Save => Wait until operation completed.
+Go to related SQL database => Pricing Tier => set vCores to 40 => Apply => wait until operation completed.
+ 
+
+One strange thing we find is there’s big performance gap between 2 environments. We double check the code and inputs are same, SQL and server settings are same. (And we do not found any related difference)
+
+Not sure there’s any manual change for perfenv1 when you did performance tuning last week? The good news is it still can be repro.
+
+ 
+
+Here’re the performance number for env1 and env2:
+
+Env1: 21665 resources per second
+
+
+Env2: 13809 resources per seconds
+
+
+ 
+
+Thanks
+
+Tong
