@@ -17,7 +17,7 @@ function Install-Prerequisite {
     if (Get-Module -ListAvailable -Name SqlServer) {
         Write-Host "`t- SQL Already Installed"
     } 
-    else {sdf
+    else {
         try {
             Install-Module -Name SqlServer -AllowClobber -Confirm:$False -Force  
             Write-Host "- SQL was installed successfully."
